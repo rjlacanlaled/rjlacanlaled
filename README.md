@@ -1,9 +1,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=rjlacanlaled&show_icons=true&theme=vue-dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rjlacanlaled&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjlacanlaled&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjlacanlaled&layout=compact" />
 </a>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
