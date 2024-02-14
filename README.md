@@ -15,4 +15,4 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2338B2AC.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Aiken](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=aiken&logoColor=white)
